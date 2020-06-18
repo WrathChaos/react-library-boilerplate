@@ -21,13 +21,14 @@ git clone git@github.com:WrathChaos/react-library-boilerplate.git my-react-compo
 
 Simply run the command and clone the project with your component name
 
-### Clean-Up
+### Clean-Up & Simple Run
 
 Clean up the files from the example repository and do not forget to install the dependencies
 
 ```sh
 rm -rf .git README.md
 npm install OR yarn
+npm start
 ```
 
 ### Run the component with storyboard
