@@ -86,6 +86,10 @@ You will serve this lib file on npm or any register.
 * Prettier, ESLint and Stylelint for code formatting/linting
 * SASS support
 
+## Credits
+
+Heavily inspired by [samuelmueli's boilerplate](https://github.com/samuelmeuli/react-library-boilerplate)
+
 ## Author
 
 FreakyCoder, kurayogun@gmail.com
