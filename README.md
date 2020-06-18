@@ -4,8 +4,6 @@
 
 [![React Library BoilerPlate](https://img.shields.io/badge/-No%20configuration%20%26%20easy%20to%20create%20react%20library%20component%20with%20boilerplate-lightgrey?style=for-the-badge)](https://github.com/WrathChaos/react-library-boilerplate)
 
-[![npm version](https://img.shields.io/npm/v/react-library-boilerplate.svg?style=for-the-badge)](https://www.npmjs.com/package/react-library-boilerplate)
-[![npm](https://img.shields.io/npm/dt/react-library-boilerplate.svg?style=for-the-badge)](https://www.npmjs.com/package/react-library-boilerplate)
 ![Platform - Android and iOS](https://img.shields.io/badge/platform-Android%20%7C%20iOS-blue.svg?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg?style=for-the-badge)](https://github.com/prettier/prettier)
