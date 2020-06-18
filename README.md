@@ -39,7 +39,7 @@ After you've done with your component, simply change these things with your own 
 Change the 'ReactComponent' with your component name
 
 ```js
-   input: "src/ReactComponent",
+input: "src/ReactComponent",
 ```
 
 #### package.json
@@ -47,8 +47,8 @@ Change the 'ReactComponent' with your component name
 Change the 'ReactComponent' with your component name
 
 ```js
-  "main": "lib/ReactComponent.js",
-  "module": "lib/ReactComponent.es.js",
+"main": "lib/ReactComponent.js",
+"module": "lib/ReactComponent.es.js",
 ```
 
 #### index.stories.js
@@ -61,12 +61,12 @@ import React from "react";
 import ReactComponent from "../lib/ReactComponent.es";
 
 const ReactComponentContainer = () => (
-    <div>
-        <ReactComponent title="Bad Deadpool... Good Deadpool!" />
-    </div>
+<div>
+    <ReactComponent title="Bad Deadpool... Good Deadpool!" />
+</div>
 );
 storiesOf("ReactComponent", module).add("ReactComponent", () => (
-    <ReactComponentContainer />
+<ReactComponentContainer />
 ));
 ```
 
