@@ -2,7 +2,7 @@
 
 [![Battle Tested ✅](https://img.shields.io/badge/-Battle--Tested%20%E2%9C%85-03666e?style=for-the-badge)](https://github.com/WrathChaos/react-library-boilerplate)
 
-[![React Library BoilerPlate](https://img.shields.io/badge/-No%20configuration%20%26%20easy%20to%20create%20react%20library%20component%20with%20boilerplate-lightgrey?style=for-the-badge)](https://github.com/WrathChaos/react-library-boilerplate)
+[![No configuration & easy to create react library component with boilerplate](https://img.shields.io/badge/-No%20configuration%20%26%20easy%20to%20create%20react%20library%20component%20with%20boilerplate-lightgrey?style=for-the-badge)](https://github.com/WrathChaos/react-library-boilerplate)
 
 ![Platform - Web](https://img.shields.io/badge/platform-web-blue.svg?style=for-the-badge)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
